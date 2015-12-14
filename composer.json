@@ -1,0 +1,25 @@
+{
+  "license": "MIT",
+  "name": "hopkins/panic",
+  "description": "A package to format data for charts in Panic's Statusboard application",
+  "keywords": [
+    "statusboard",
+    "panic",
+    "api"
+  ],
+  "authors": [
+    {
+      "name": "Michael Hopkins",
+      "email": "mhopkins321@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Hopkins\\Panic\\": "src"
+    }
+  },
+  "minimum-stability": "dev"
+}
