@@ -61,4 +61,3 @@ return $panic->render();
 # License
 
 This project is licensed using [DBAD](http://www.dbad-license.org/). Go have a blast.
-````
